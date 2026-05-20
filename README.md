@@ -20,3 +20,4 @@ A simple and responsive calculator web application developed using HTML, CSS, an
 
 This project was developed as a beginner-level mini project to understand fundamental concepts of web development, event handling, and JavaScript operations.
 
+<img width="883" height="894" alt="image" src="https://github.com/user-attachments/assets/d7e38c50-9c1b-4cac-a259-5f547010a4c5" />
